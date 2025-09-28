@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="left">hey there 👋</h1>
+<h1 align="left">hey there I'm Adrián👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Adrián from Madrid<br>🎓 I'm Computer Engineering student at **University of Alcalá (UAH)**  <br>🤖 I'm currently learning **Artificial Intelligence** and **Process Automation**  <br>📚 I'm preparing for the **C2 English Certificate**  <br>💡 I spend my free time building small projects to sharpen my development skills</p>
+<p align="left"><br>🎓 I'm Computer Engineering student at **University of Alcalá (UAH)**  <br>🤖 I'm currently learning **Artificial Intelligence** and **Process Automation**  <br>📚 I'm preparing for the **C2 English Certificate**  <br>💡 I spend my free time building small projects to sharpen my development skills</p>
 
 ###
 
