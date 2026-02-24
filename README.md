@@ -60,7 +60,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
