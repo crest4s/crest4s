@@ -2,7 +2,8 @@
 
 I'm a Computer Engineering student at the **University of Alcalá (UAH)**, in Spain.
 
-- 🤖 I'm currently learning **Artificial Intelligence**, **process automation** and **cybersecurity**
+- 🛡️ Focused on **cybersecurity**: bug bounty, pentesting practice on Hack The Box and low-level systems
+- 🤖 Also learning **Artificial Intelligence** and **process automation**
 - 📚 I'm preparing for the **C2 English certificate**
 - 💡 I spend my free time building small projects to sharpen my development skills
 
@@ -17,11 +18,11 @@ I'm a Computer Engineering student at the **University of Alcalá (UAH)**, in Sp
 | Project | Description |
 |---------|-------------|
 | [hackerone-vdp-pipeline](https://github.com/crest4s/hackerone-vdp-pipeline) | Auditable, scope-enforcing automation pipeline for authorized HackerOne programs (Python). |
-| [java-zombie-apocalypse](https://github.com/crest4s/java-zombie-apocalypse) | Concurrent zombie apocalypse simulation in Java with threads, RMI and a Swing GUI. |
-| [guion-maker-docs-addon](https://github.com/crest4s/guion-maker-docs-addon) | Google Docs add-on that formats screenplays to industry standards (Apps Script). |
-| [advanced-os-labs](https://github.com/crest4s/advanced-os-labs) | Operating systems labs in C: paging simulator and FAT32 volume reader with deleted-file recovery. |
 | [htb-machines-cli](https://github.com/crest4s/htb-machines-cli) | Interactive Bash CLI to search and filter Hack The Box machines from the terminal. |
-| [bnbair](https://github.com/crest4s/bnbair) | Desktop Airbnb clone in Java Swing: hosts, properties, bookings and reviews. |
+| [advanced-os-labs](https://github.com/crest4s/advanced-os-labs) | Operating systems labs in C: paging simulator and FAT32 volume reader with deleted-file recovery. |
+| [epp-compiler-jasmin](https://github.com/crest4s/epp-compiler-jasmin) | Compiler built with ANTLR4 that generates JVM bytecode through Jasmin. |
+| [java-zombie-apocalypse](https://github.com/crest4s/java-zombie-apocalypse) | Concurrent simulation in Java with threads, RMI and a Swing GUI. |
+| [cuda-flight-delay-analysis](https://github.com/crest4s/cuda-flight-delay-analysis) | GPU analysis of 1.2M flights with CUDA: atomics, shared memory, reductions and histograms. |
 
 ## 🔥 Stats
 
