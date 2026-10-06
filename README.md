@@ -1,92 +1,36 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
+<h1 align="left">Hey there, I'm Adrián 👋</h1>
 
-###
+I'm a Computer Engineering student at the **University of Alcalá (UAH)**, in Spain.
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBoZ2YxcXV3MG9wMHhienhrNGg1bG5tOHI2MGpnNW1icGdzd29xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.gif"  />
-</div>
+- 🤖 I'm currently learning **Artificial Intelligence**, **process automation** and **cybersecurity**
+- 📚 I'm preparing for the **C2 English certificate**
+- 💡 I spend my free time building small projects to sharpen my development skills
 
-###
+## 🛠 Languages and tools
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,scala,bash,ts,react,postgres,mongodb,supabase,aws,docker,git,github,linux,grafana" height="40" alt="Python, Java, C, C++, Scala, Bash, TypeScript, React, PostgreSQL, MongoDB, Supabase, AWS, Docker, Git, GitHub, Linux, Grafana" />
 </div>
 
-###
+## 📌 Featured projects
+
+| Project | Description |
+|---------|-------------|
+| [hackerone-vdp-pipeline](https://github.com/crest4s/hackerone-vdp-pipeline) | Auditable, scope-enforcing automation pipeline for authorized HackerOne programs (Python). |
+| [java-zombie-apocalypse](https://github.com/crest4s/java-zombie-apocalypse) | Concurrent zombie apocalypse simulation in Java with threads, RMI and a Swing GUI. |
+| [guion-maker-docs-addon](https://github.com/crest4s/guion-maker-docs-addon) | Google Docs add-on that formats screenplays to industry standards (Apps Script). |
+| [advanced-os-labs](https://github.com/crest4s/advanced-os-labs) | Operating systems labs in C: paging simulator and FAT32 volume reader with deleted-file recovery. |
+| [htb-machines-cli](https://github.com/crest4s/htb-machines-cli) | Interactive Bash CLI to search and filter Hack The Box machines from the terminal. |
+| [bnbair](https://github.com/crest4s/bnbair) | Desktop Airbnb clone in Java Swing: hosts, properties, bookings and reviews. |
+
+## 🔥 Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adriancrestita.adriancrestita&right_color=purple"  />
+  <img src="https://streak-stats.demolab.com?user=crest4s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="GitHub streak stats" />
 </div>
 
-###
+## 🌐 Find me on
 
-<h1 align="left">hey there I'm Adrián👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🎓 I'm Computer Engineering student at **University of Alcalá (UAH)**  <br>🤖 I'm currently learning **Artificial Intelligence**, **Process Automation** and **Cybersecurity**  <br>📚 I'm preparing for the **C2 English Certificate**  <br>💡 I spend my free time building small projects to sharpen my development skills</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-</div>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=crest4s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">🌐 My Social Network</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/adri%C3%A1n-morales-rodr%C3%ADguez-00872431a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
-
-###
+<a href="https://www.linkedin.com/in/adri%C3%A1n-morales-rodr%C3%ADguez-00872431a/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
