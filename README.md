@@ -3,8 +3,8 @@
 Final-year **Computer Science Engineering** student at the **University of Alcalá (UAH)**, Spain, focused on **cybersecurity**, both offensive and defensive.
 
 - 🛡️ Most interested in **web application auditing** and **Linux hardening**; practising on Hack The Box and getting started with HackerOne VDP programmes
-- 🖥️ Worked as a **developer and sysadmin** at Web2Impact: securing Linux servers, AWS (IAM, networking) and production monitoring
-- 🤖 Building **SBKMind**, my final-year project: a market intelligence platform with a RAG assistant and an MCP server, protected with JWT, role-based access control and read-only AI-generated SQL
+- 🖥️ Worked as a **developer and sysadmin**: securing Linux servers, AWS (IAM, networking) and production monitoring
+- 🤖 Building my final-year project: a market intelligence platform with a RAG assistant and an MCP server, protected with JWT, role-based access control and read-only AI-generated SQL
 - 🌱 Currently learning Burp Suite and Bash scripting, and getting more fluent with Nmap, Wireshark and ffuf
 - 📚 Preparing for the **C2 English certificate** (C1 Advanced already done)
 - 📫 Open to **cybersecurity internships** in Madrid
@@ -44,6 +44,6 @@ Final-year **Computer Science Engineering** student at the **University of Alcal
 
 ## 🌐 Find me on
 
-<a href="https://www.linkedin.com/in/adri%C3%A1n-morales-rodr%C3%ADguez-00872431a/" target="_blank">
+<a href="https://www.linkedin.com/in/adrian-morales-rodriguez/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
 </a>
